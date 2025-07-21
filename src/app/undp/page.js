@@ -181,7 +181,7 @@ export default function DashboardPage() {
             Total Trees Saved
           </div>
           <div className="text-sm text-white/70 mt-3 text-center">
-            1600 kg wood = 1 tree equivalent
+            500 kg wood = 1 tree equivalent
           </div>
         </div>
 
